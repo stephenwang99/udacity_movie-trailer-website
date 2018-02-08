@@ -1,5 +1,5 @@
 # Project: Movie Trailer Website
-This is the Udacity: Full Stack Web Developer Nanodegree Project 1
+This is the Udacity: Full Stack Web Developer Nanodegree Project 1   
 **by Stephen Wang**
 
 ## About this project
@@ -17,7 +17,7 @@ Screenshot of Website
 The website display the Movie's release year, Rate and plot. the tailer from Youtube would show up when click the movie
 
 ## Documentation
----
+
 #### media.py
 The constructor created the variable for moive's information which includes Title, Year, Poster image's url, Trailer's Youtube url, Rate and plot
 
